@@ -3,8 +3,32 @@ Only details of the project, not the source code
 
 here are the images
 
-Cartificer
+
+
+UX UI design
+
 technology used
+
+- AdobeXD
+
+UX UI design for a shopping app with adobeXD.
+
+<img src="https://github.com/borsezf2/Internship_projects/blob/master/Images/adobeXD/iPhone%206-7-8%20Plus%20%E2%80%93%201.png?raw=true"  />
+
+<img src="https://github.com/borsezf2/Internship_projects/blob/master/Images/adobeXD/iPhone%206-7-8%20Plus%20%E2%80%93%202.png?raw=true"  />
+
+<img src="https://github.com/borsezf2/Internship_projects/blob/master/Images/adobeXD/iPhone%206-7-8%20Plus%20%E2%80%93%203.png?raw=true" />
+
+<img src="https://github.com/borsezf2/Internship_projects/blob/master/Images/adobeXD/iPhone%206-7-8%20Plus%20%E2%80%93%204.png?raw=true"/>
+
+<img src="https://github.com/borsezf2/Internship_projects/blob/master/Images/adobeXD/iPhone%206-7-8%20Plus%20%E2%80%93%206.png?raw=true" />
+
+
+
+Cartificer
+
+technology used
+
 - flutter
 - firebase
 - rest API
